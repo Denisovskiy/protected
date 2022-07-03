@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\test\test\Source.cpp(112): warning C4715: TakeData_and_FindnOfElem: значение возвращается не при всех путях выполнения
+  test.vcxproj -> D:\test\Debug\test.exe
